@@ -2,7 +2,7 @@
     <div class="about-parent">
         <h1 class="about-text-1">ABOUT</h1>
         <p class="about-text-2">
-            at Hack WashU, you'll meet fellow hackers from around the country, learn new skills, and work alongside seasoned mentors.  
+            At Hack WashU, you'll meet fellow hackers from around the country, learn new skills, and work alongside seasoned mentors.  
             <br> 
             <br>     
             we'll have free workshops, lecture series, mentorship, prizes, games, and more. 
